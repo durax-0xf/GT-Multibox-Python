@@ -51,4 +51,4 @@ C:\>python3 C:\Users\admin\Desktop\MultiBox_Work_In_Progress.py
 
 ## Authors
 
-* **durax** - ** - [durax](https://github.com/durax-0xf) - *Made the whole thing*
+[durax](https://github.com/durax-0xf) - *Made the whole thing*
